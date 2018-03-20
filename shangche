@@ -136,6 +136,12 @@ method: aes-256-cfb
 
 
 
+ip地址baidu.freess.pw 端口号30001 密码freess.pw 加密aes-256-cfb
+
+ip地址baidu.freess.pw 端口号40001 密码freess.pw 加密aes-256-cfb
+
+
+
 address      │ port  │ password │ method      │
 ├──────────────┼───────┼──────────┼─────────────┤
 │ a.isxb.bid   │ 14588 │ 21878863 │ aes-256-cfb │
