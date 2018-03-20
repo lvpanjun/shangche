@@ -32,13 +32,13 @@ All windows series supported. .NET may required on WinXP.
 http://160.16.231.71/ssr-4.1.4-win.7z
 
 
-iphone
+iphone：
 
 
 http://dwz.cn/3BvX4t
 
 
-android
+android：
 
 SS for Andoird
 No need to ROOT. SS only. Official version. For latest version, please
@@ -48,7 +48,7 @@ http://160.16.231.71/ss-nightly-4.1.3.apk
 
 
 
-免费账号：
+免费账号：  3.21号
 
 Shadowsocks账号
 JAPAN 1
@@ -95,4 +95,18 @@ method: aes-256-cfb
 
 
 
+address      │ port  │ password │ method      │
+├──────────────┼───────┼──────────┼─────────────┤
+│ a.isxb.bid   │ 14588 │ 21878863 │ aes-256-cfb │
+├──────────────┼───────┼──────────┼─────────────┤
+│ b.isxb.bid   │ 18121 │ 71155206 │ aes-256-cfb │
+├──────────────┼───────┼──────────┼─────────────┤
+│ c.isxb.bid   │ 18502 │ 72898774 │ aes-256-cfb │
+├──────────────┼───────┼──────────┼─────────────┤
+│ jpa.isxa.bid │ 19703 │ 15290193 │ aes-256-cfb │
+├──────────────┼───────┼──────────┼─────────────┤
+│ jpb.isxa.bid │ 15578 │ 10739135 │ aes-256-cfb │
+
+
+上车！！！！！！
 
